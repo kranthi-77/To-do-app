@@ -1,4 +1,4 @@
-# js-projects
+# To-do-app
 A task management solution, designed to make life easier.
 ● Streamlined task management through a combination of HTML, CSS, and Bootstrap for an intuitive
 interface.
